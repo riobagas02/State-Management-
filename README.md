@@ -61,15 +61,20 @@ Hasil Output localhost
  
 ### Praktikum 4: Data Fetching dengan SWR
 1. Langkah 1: Implementasi Data Fetching
+![Praktikum 4](./images/prak4-1.png) 
  
 2. Langkah 2: Gunakan Komponen dalam halaman
- 
+![Praktikum 4](./images/prak4-2.png)
+Hasil Output localhost
+![Praktikum 4](./images/prak4-3.png)
  
 ### Praktikum 5: URL State Management
 1. Langkah 1: Implementasi URL State
  
 2. Langkah 2: Gunakan Komponen dalam halaman
- 
+
+Hasil Output localhost
+
  
 ### Tugas
 1.	Bandingkan performa antara Context API, Zustand, dan Redux
