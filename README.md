@@ -14,13 +14,13 @@ npm install zustand @reduxjs/toolkit react-redux next-redux-wrapper swr
 ![Praktikum](./images/prak-3.png)
 
 ### Praktikum 1: React Context untuk State Global Sederhana
-Langkah 1: Buat Context
+1. Langkah 1: Buat Context
 ![Praktikum 1](./images/prak1-1.png)
  
-Langkah 2: Implementasi di Komponen
+2. Langkah 2: Implementasi di Komponen
 ![Praktikum 1](./images/prak1-2.png)
  
-Langkah 3: Wrap Aplikasi
+3. Langkah 3: Wrap Aplikasi
 ![Praktikum 1](./images/prak1-3.png)
 ![Praktikum 1](./images/prak1-4.png)
  
