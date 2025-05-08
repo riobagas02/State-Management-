@@ -70,10 +70,12 @@ Hasil Output localhost
  
 ### Praktikum 5: URL State Management
 1. Langkah 1: Implementasi URL State
- 
-2. Langkah 2: Gunakan Komponen dalam halaman
+![Praktikum 5](./images/prak5-1.png)
 
+2. Langkah 2: Gunakan Komponen dalam halaman
+![Praktikum 5](./images/prak5-2.png)
 Hasil Output localhost
+![Praktikum 5](./images/prak5-3.png)
 
  
 ### Tugas
