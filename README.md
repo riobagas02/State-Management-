@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
 
-First, run the development server:
+### Praktikum
+1.	Buat proyek baru:
+npx create-next-app@15.2.1 state-management-praktikum
+![Praktikum](./images/prak-1.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+cd state-management-praktikum
+![Praktikum](./images/prak-2.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2.	Install dependensi tambahan:
+npm install zustand @reduxjs/toolkit react-redux next-redux-wrapper swr
+![Praktikum](./images/prak-3.png)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Praktikum 1: React Context untuk State Global Sederhana
+Langkah 1: Buat Context
+![Praktikum 1](./images/prak1-1.png)
+ 
+Langkah 2: Implementasi di Komponen
+![Praktikum 1](./images/prak1-2.png)
+ 
+Langkah 3: Wrap Aplikasi
+![Praktikum 1](./images/prak1-3.png)
+![Praktikum 1](./images/prak1-4.png)
+ 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+ 
 
-## Learn More
+### Praktikum 2: Zustand untuk State Management Kompleks
+Langkah 1: Buat Store
+ 
+Langkah 2: Implementasi Komponen
+ 
+Langkah 3: Gunakan Komponen dalam halaman
+ 
+ 
+Praktikum 3: Redux Toolkit dengan SSR Support
+Langkah 1: Setup Redux
+ 
+Langkah 2: Buat Slice
+ 
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Langkah 3: Provider Setup
+ 
+Langkah 4: Implementasi Komponen
+ 
+Langkah 5: Gunakan Komponen dalam halaman
+ 
+ 
+Praktikum 4: Data Fetching dengan SWR
+Langkah 1: Implementasi Data Fetching
+ 
+Langkah 2: Gunakan Komponen dalam halaman
+ 
+ 
+Praktikum 5: URL State Management
+Langkah 1: Implementasi URL State
+ 
+Langkah 2: Gunakan Komponen dalam halaman
+ 
+ 
+Tugas
+1.	Bandingkan performa antara Context API, Zustand, dan Redux
+2.	Diskusikan kapan sebaiknya menggunakan masing-masing solusi
