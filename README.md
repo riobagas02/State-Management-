@@ -5,13 +5,13 @@
 ### Praktikum
 1.	Buat proyek baru:
 npx create-next-app@15.2.1 state-management-praktikum
-![Praktikum](./images/prak-1.png)
+![Praktikum](./images/prak0-1.png)
 cd state-management-praktikum
-![Praktikum](./images/prak-2.png)
+![Praktikum](./images/prak0-2.png)
 
 2.	Install dependensi tambahan:
 npm install zustand @reduxjs/toolkit react-redux next-redux-wrapper swr
-![Praktikum](./images/prak-3.png)
+![Praktikum](./images/prak0-3.png)
 
 ### Praktikum 1: React Context untuk State Global Sederhana
 1. Langkah 1: Buat Context
@@ -22,45 +22,49 @@ npm install zustand @reduxjs/toolkit react-redux next-redux-wrapper swr
  
 3. Langkah 3: Wrap Aplikasi
 ![Praktikum 1](./images/prak1-3.png)
+Hasil Output localhost
 ![Praktikum 1](./images/prak1-4.png)
  
 
  
 
 ### Praktikum 2: Zustand untuk State Management Kompleks
-Langkah 1: Buat Store
+1. Langkah 1: Buat Store
+![Praktikum 2](./images/prak2-1.png)
  
-Langkah 2: Implementasi Komponen
+2. Langkah 2: Implementasi Komponen
+![Praktikum 2](./images/prak2-2.png)
  
-Langkah 3: Gunakan Komponen dalam halaman
- 
- 
-Praktikum 3: Redux Toolkit dengan SSR Support
-Langkah 1: Setup Redux
- 
-Langkah 2: Buat Slice
- 
-
-
-Langkah 3: Provider Setup
- 
-Langkah 4: Implementasi Komponen
- 
-Langkah 5: Gunakan Komponen dalam halaman
+3. Langkah 3: Gunakan Komponen dalam halaman
+![Praktikum 2](./images/prak2-3.png)
+Hasil Output localhost
+![Praktikum 2](./images/prak2-4.png)
  
  
-Praktikum 4: Data Fetching dengan SWR
-Langkah 1: Implementasi Data Fetching
+### Praktikum 3: Redux Toolkit dengan SSR Support
+1. Langkah 1: Setup Redux
  
-Langkah 2: Gunakan Komponen dalam halaman
+2. Langkah 2: Buat Slice
+ 
+3. Langkah 3: Provider Setup
+ 
+4. Langkah 4: Implementasi Komponen
+ 
+5. Langkah 5: Gunakan Komponen dalam halaman
  
  
-Praktikum 5: URL State Management
-Langkah 1: Implementasi URL State
+### Praktikum 4: Data Fetching dengan SWR
+1. Langkah 1: Implementasi Data Fetching
  
-Langkah 2: Gunakan Komponen dalam halaman
+2. Langkah 2: Gunakan Komponen dalam halaman
  
  
-Tugas
+### Praktikum 5: URL State Management
+1. Langkah 1: Implementasi URL State
+ 
+2. Langkah 2: Gunakan Komponen dalam halaman
+ 
+ 
+### Tugas
 1.	Bandingkan performa antara Context API, Zustand, dan Redux
 2.	Diskusikan kapan sebaiknya menggunakan masing-masing solusi
