@@ -1,4 +1,6 @@
-
+# Rio Bagas Hermawan
+# 2241720193
+# TI-3D
 
 ### Praktikum
 1.	Buat proyek baru:
