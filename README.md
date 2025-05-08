@@ -6,7 +6,6 @@
 1.	Buat proyek baru:
 npx create-next-app@15.2.1 state-management-praktikum
 ![Praktikum](./images/prak-1.png)
-
 cd state-management-praktikum
 ![Praktikum](./images/prak-2.png)
 
