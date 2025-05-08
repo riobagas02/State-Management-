@@ -43,15 +43,21 @@ Hasil Output localhost
  
 ### Praktikum 3: Redux Toolkit dengan SSR Support
 1. Langkah 1: Setup Redux
+![Praktikum 3](./images/prak3-1.png)
  
 2. Langkah 2: Buat Slice
- 
+![Praktikum 3](./images/prak3-2.png)
+
 3. Langkah 3: Provider Setup
- 
+![Praktikum 3](./images/prak3-3.png)
+
 4. Langkah 4: Implementasi Komponen
- 
+![Praktikum 3](./images/prak3-4.png)
+
 5. Langkah 5: Gunakan Komponen dalam halaman
- 
+![Praktikum 3](./images/prak3-5.png)
+Hasil Output localhost
+![Praktikum 3](./images/prak3-6.png) 
  
 ### Praktikum 4: Data Fetching dengan SWR
 1. Langkah 1: Implementasi Data Fetching
